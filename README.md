@@ -20,4 +20,10 @@
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kianweelee&theme=radical" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kianweelee&theme=radical"/></td>
   </tr>
 </table>
-  
+
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=kianweelee">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kianweelee" />
+  </a>
+</p>
+
