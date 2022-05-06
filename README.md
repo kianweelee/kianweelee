@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian Wee</h1>
-<p align="center">Data Analyst, Schott Singapore</p>
+<p align="center">Software Developer, Schott Singapore</p>
 <p align="center"><em>Check out my <a href="https://discord.gg/NC8Gk9H">Data Analytics discord channel</a></em></p>
 
 ## About Me 🙋🏻‍♂️
