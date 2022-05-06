@@ -5,10 +5,12 @@
 ## About Me 🙋🏻‍♂️
 - Graduated with a Bachelors of Biotechnology with a First Class Honours
 - Fall in love with bioinformatics and picked up my first programming language, R
-- Working full time as a data analyst in a manufacturing sector 👨🏻‍💻
+- Worked full time as a data analyst (July 2020 - May 2022) 👨🏻‍💻
   * Helped to create highly-impactful dashboards using R shiny to assist stackholders in their decisions
   * Generate interfaces using R shiny to streamline existing workflow
   * Digitalise existing warehouse system using R shiny to improve data capturing and accountability
+- Currently working as a software developer
+  * Developed primarily on the frontend using React
 - Spend majority of my freetime after work and weekends coding my own projects 🤓
   * Currently learning javascript by building an ecommerce platform (Private repo)
 
