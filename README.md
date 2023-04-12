@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kian Wee</h1>
-<p align="center">Software Developer, Schott Singapore</p>
+<p align="center">Software Developer</p>
 <p align="center"><em>Check out my <a href="https://discord.gg/NC8Gk9H">Data Analytics discord channel</a></em></p>
 
 ## About Me 🙋🏻‍♂️
@@ -9,12 +9,11 @@
   * Helped to create highly-impactful dashboards using R shiny to assist stackholders in their decisions
   * Generate interfaces using R shiny to streamline existing workflow
   * Digitalise existing warehouse system using R shiny to improve data capturing and accountability
-- Currently working as a software developer
+- Currently working as a valuation analyst with a mixture of software development
   * Developed primarily on the frontend using React
   * Developed REST APIs
   * Construct, design and manage PostgreSQL database
 - Spend majority of my freetime after work and weekends coding my own projects 🤓
-  * Currently learning javascript by building an ecommerce platform (Private repo)
 
 ## Metrics 📊
 
